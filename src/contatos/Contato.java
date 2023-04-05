@@ -1,2 +1,5 @@
-package contatos;public class Contato {
+package contatos;
+
+public class Contato {
+
 }
